@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+html, body {
+    font-size: 16px;
+    font-family: 'Arial', sans-serif;
+}
